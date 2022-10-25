@@ -1,0 +1,256 @@
+/* Краски | Кисточки | Карандаши */
+.kkk {
+    position: absolute;
+    width: 654px;
+    left: 84px;
+    top: 75px;
+    line-height: 49px;
+    font-weight: 700;
+    font-size: 36px;
+}
+.kkk_color {
+    color: #408253;
+}
+.separation {
+    color: #E5E5E5;
+}
+
+
+/* Канцелярия для Вас и Ваших детей */
+.title {
+position: absolute;
+width: 1202px;
+left: 119px;
+top: 199px;
+
+font-size: 64px;
+line-height: 87px;
+}
+
+/* Первая картинка к заголовку <h1> */
+.title_picture {
+    position: absolute;
+    left: 84px;
+    top: 350px;
+}
+
+
+/* Детские принадлежности */
+.second_title {
+    position: absolute;
+    left: 389px;
+    top: 1155px;
+
+    font-size: 48px;
+    line-height: 65px;
+}
+
+
+/* В нашем интернет-магазине вы сможете найти большой выбор детских принадлежностей. Большой выбор фломастеров, карандашей, тетрадей. */
+.description {
+    position: absolute;
+    width: 1032px;
+    left: 158px;
+    top: 1275px;
+
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+}
+
+
+/* Карта-картинка */
+.pic_map {
+    position: absolute;
+    left: 85px;
+    top: 1430px;
+}
+
+
+/* Набор акварелей */
+.title_table_akvarel {
+    position: absolute;
+    left: 0px;
+    top: 2240px;
+    width: 500px;
+
+    font-weight: 700;
+    font-size: 36px;
+}
+
+/* Набор кисточек */
+.title_table_brush {
+    position: absolute;
+    left: 0px;
+    top: 2710px;
+    width: 500px;
+
+    font-weight: 700;
+    font-size: 36px;
+}
+
+/* Набор стаканчиков */
+.title_table_glass {
+    position: absolute;
+    left: 0px;
+    top: 3100px;
+    width: 425px;
+
+    font-weight: 700;
+    font-size: 36px;
+}
+
+
+/* Контейнер тела таблицы 1 */
+.container_table_body_1 {
+    box-sizing: border-box;
+    position: absolute;
+    left: 84px;
+    top: 2320px;
+    width: 1271px;
+
+    background: #D9F0E0;
+    border: 1px solid #408253;
+}
+
+/* Контейнер тела таблицы 2 */
+.container_table_body_2 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 1271px;
+    left: 84px;
+    top: 2788px;
+
+    background: #D9F0E0;
+    border: 1px solid #408253;
+}
+
+/* Контейнер тела таблицы 3 */
+.container_table_body_3 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 1271px;
+    left: 84px;
+    top: 3182px;
+
+    background: #D9F0E0;
+    border: 1px solid #408253;
+}
+
+
+/* Контейнер низа таблицы 1 */
+.container_table_foot_1 {
+    position: absolute;
+    width: 1271px;
+    left: 84px;
+    top: 2523px;
+
+    background: #408253;
+}
+
+/* Контейнер низа таблицы 2 */
+.container_table_foot_2 {
+    position: absolute;
+    width: 1271px;
+    left: 84px;
+    top: 3388px;
+    background: #408253;
+}
+
+
+/* Основной текст низа таблицы 1 */
+.tfoot_main_1 {
+    border-right: 1px solid #D9F0E0;
+    width: 2500px;
+
+    font-style: italic;
+    font-weight: 600;
+    font-size: 30px;
+    color: #FFFFFF;
+}
+
+/* Основной текст низа таблицы 3 */
+.tfoot_main_3 {
+    height: 160px;
+
+    font-style: italic;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 41px;
+    color: #FFFFFF;
+}
+
+/* Текст низа таблицы */
+.tfoot_text {
+    width: 150px;
+    text-align: center;
+    border: 1px solid #D9F0E0;
+
+    font-size: 30px;
+    color: #FFFFFF;
+}
+
+/* Заголовки тела таблицы при использовании <th> */
+.th_text_body {
+    border: 1px solid #408253;
+
+    font-size: 30px;
+    line-height: 41px;
+}
+
+/* Текст тела таблицы при использовании <td> */
+.td_text_body {
+    border: 1px solid #408253;
+    width: 150px;
+
+    text-align: center;
+    font-size: 30px;
+    line-height: 41px;
+}
+
+
+/* 6% */
+.six {
+    border-right: 1px solid #D9F0E0;
+    width: 390px;
+
+    font-style: italic;
+    font-weight: 600;
+    font-size: 30px;
+    color: #FFFFFF;
+}
+
+/* 7% */
+.seven {
+    width: 400px;
+
+    font-style: italic;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 41px;
+    color: #FFFFFF;
+}
+
+
+/* Примечание под таблицей номер 3 */
+.under_table {
+    position: absolute;
+    left: 84px;
+    top: 3610px;
+
+    font-size: 24px;
+    line-height: 33px;
+}
+
+
+/* БГУИР */
+.bsuir {
+    position: absolute;
+    width: 169px;
+    left: 1186px;
+    top: 3720px;
+
+    font-size: 24px;
+    line-height: 33px;
+    text-align: right;
+}
